@@ -1,19 +1,3 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
-
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+This is my first chrome extension. It works like built-in book mark function on Chrome. It allows me to save the url of any tabs that can be accessed immediately later on just by doing one click.
+Utilizing localStorage to store url address permanently on browser unless explicitly delete through delete button
+Using HTML and CSS for the UI and JS for handling logic relate to save provided url address to the localStorage, save url address of current tab and delete all tabs from local Storage
